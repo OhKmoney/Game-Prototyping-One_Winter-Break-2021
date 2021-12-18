@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Unreal_Prototyping_1.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"Z:\Unreal Projects\Game-Prototyping-One_Winter-Break-2021\Unreal_Prototyping_1\Intermediate\Build\Win64\Unreal_Prototyping_1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"Z:\Unreal Projects\Game-Prototyping-One_Winter-Break-2021\Unreal_Prototyping_1\Intermediate\Build\Win64\UE4Editor\Development\Unreal_Prototyping_1\Unreal_Prototyping_1.cpp.obj"
+"Z:\Unreal Projects\Game-Prototyping-One_Winter-Break-2021\Unreal_Prototyping_1\Intermediate\Build\Win64\UE4Editor\Development\Unreal_Prototyping_1\Unreal_Prototyping_1Character.cpp.obj"
+"Z:\Unreal Projects\Game-Prototyping-One_Winter-Break-2021\Unreal_Prototyping_1\Intermediate\Build\Win64\UE4Editor\Development\Unreal_Prototyping_1\Unreal_Prototyping_1GameMode.cpp.obj"
+"Z:\Unreal Projects\Game-Prototyping-One_Winter-Break-2021\Unreal_Prototyping_1\Intermediate\Build\Win64\UE4Editor\Development\Unreal_Prototyping_1\Unreal_Prototyping_1.init.gen.cpp.obj"
+"Z:\Unreal Projects\Game-Prototyping-One_Winter-Break-2021\Unreal_Prototyping_1\Intermediate\Build\Win64\UE4Editor\Development\Unreal_Prototyping_1\Unreal_Prototyping_1Character.gen.cpp.obj"
+"Z:\Unreal Projects\Game-Prototyping-One_Winter-Break-2021\Unreal_Prototyping_1\Intermediate\Build\Win64\UE4Editor\Development\Unreal_Prototyping_1\Unreal_Prototyping_1GameMode.gen.cpp.obj"
+"Z:\Unreal Projects\Game-Prototyping-One_Winter-Break-2021\Unreal_Prototyping_1\Intermediate\Build\Win64\UE4Editor\Development\Unreal_Prototyping_1\Default.rc2.res"
+/OUT:"Z:\Unreal Projects\Game-Prototyping-One_Winter-Break-2021\Unreal_Prototyping_1\Intermediate\Build\Win64\UE4Editor\Development\Unreal_Prototyping_1\UE4Editor-Unreal_Prototyping_1.lib"
