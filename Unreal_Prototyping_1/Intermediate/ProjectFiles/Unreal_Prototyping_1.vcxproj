@@ -75,7 +75,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{DC2D9ED3-9365-402A-861D-959F1DEC945D}</ProjectGuid>
+    <ProjectGuid>{FDE0C623-B078-4D94-AD71-ED46841BEB91}</ProjectGuid>
     <Keyword>MakeFileProj</Keyword>
     <RootNamespace>Unreal_Prototyping_1</RootNamespace>
     <PlatformToolset>v142</PlatformToolset>

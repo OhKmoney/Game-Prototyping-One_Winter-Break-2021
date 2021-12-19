@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Unreal_Prototyping_1.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{458725F5-B0E2-45BF-96B6-64227E000F73}</UniqueIdentifier>
+      <UniqueIdentifier>{18FF8BBA-6072-4CF6-84C9-96F9C552DC3F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Unreal_Prototyping_1.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{86251FB9-5A3E-47DC-A2A5-885A7A33408E}</UniqueIdentifier>
+      <UniqueIdentifier>{EDDE0674-E545-48A3-BBF4-E1280759E811}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Unreal_Prototyping_1">
-      <UniqueIdentifier>{054570EB-8307-482B-8000-4C738573A352}</UniqueIdentifier>
+      <UniqueIdentifier>{52987D0E-F940-4EE8-8509-1D9684A82DD6}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Unreal_Prototyping_1\Unreal_Prototyping_1.Build.cs">
       <Filter>Source\Unreal_Prototyping_1</Filter>
